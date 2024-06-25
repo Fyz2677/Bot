@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Voxo Studios","Get Started With /help","Your Discord Developement Buddy","voxo01.github.io/bot","Use Code VOXOV30R"];
+const statusMessages = ["Watching Fyz's Services","Discord Middleman Bot","Your Discord Friend"];
 
 
 let currentIndex = 0;
@@ -32,7 +32,7 @@ async function login() {
   } catch (error) {
     console.error('Failed to log in:', error);
     process.exit(1);
-  }
+  }f
 }
 
 
