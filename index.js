@@ -32,7 +32,7 @@ async function login() {
   } catch (error) {
     console.error('Failed to log in:', error);
     process.exit(1);
-  }f
+  }
 }
 
 
