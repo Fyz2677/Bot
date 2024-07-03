@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Fyz's Services","Discord Middleman Bot","Your Discord Friend"];
+const statusMessages = ["Watching Fyz's Services","Wacthing Middleman Services","Fyz On Top"];
 
 
 let currentIndex = 0;
